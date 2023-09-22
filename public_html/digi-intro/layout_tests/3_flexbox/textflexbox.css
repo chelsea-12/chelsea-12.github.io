@@ -1,5 +1,14 @@
+body {background-color: aquamarine}
+h1 {font-size: 36px;
+  font-family: sans-serif;
+}
+
 .box {
     display: flex;
     justify-content: space-between;
+    height: 200px;
     flex-direction: column;
+    align-items: center;
   }
+  
+  img {width: 300px;}
