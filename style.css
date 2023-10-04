@@ -3,6 +3,8 @@ h1 {font-size: 48px;
   font-family: sans-serif;
 }
 
+a {font-size: 24px}
+
 .box {
     display: flex;
     justify-content: space-between;
