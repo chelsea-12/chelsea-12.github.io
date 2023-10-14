@@ -36,7 +36,10 @@ a {font-size: 36px}
           background-color: rgb(93, 199, 241);
           
           }
-            
+          .box
+          {
+            font-size: 18px;
+          }  
         }
         
         
