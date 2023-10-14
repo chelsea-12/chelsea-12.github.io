@@ -15,3 +15,32 @@ a {font-size: 24px}
   
   img {max-width: 60%;
        height: auto;}
+
+       @media screen and (max-width: 1000px) {
+	
+        body
+          {
+          background-color: rgb(215, 139, 199);
+          }
+          
+        }
+        
+        
+        @media only screen and (max-width : 480px) {
+          
+        body
+          {
+          background-color: rgb(93, 199, 241);
+          }
+            
+        }
+        
+        
+        @media only screen and (max-width : 320px) {
+          
+        body
+          {
+          background-color: rgb(183, 57, 57);
+          }
+        
+        }
