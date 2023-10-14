@@ -3,7 +3,7 @@ h1 {font-size: 48px;
   font-family: sans-serif;
 }
 
-a {font-size: 24px}
+a {font-size: 36px}
 
 .box {
     display: flex;
@@ -31,6 +31,7 @@ a {font-size: 24px}
         body
           {
           background-color: rgb(93, 199, 241);
+          font-size: 24px;
           }
             
         }
@@ -41,6 +42,7 @@ a {font-size: 24px}
         body
           {
           background-color: rgb(183, 57, 57);
+          font-size: 24px;
           }
         
         }
